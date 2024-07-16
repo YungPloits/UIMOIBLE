@@ -1,6 +1,6 @@
 # GETTING THE UI READY
 ```lua
-local Lib = loadstring(game:HttpGet("https://raw.githubusercontent.com/YungPloits/Test/main/TESTUI",true))()
+local Lib = loadstring(game:HttpGet("https://raw.githubusercontent.com/YungPloits/UIMOIBLE/main/ui",true))()
 local Table = {}
 local window = Lib:CreateWindow("CustomZyro")
 ```
